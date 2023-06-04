@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - node1
+  - node2
+  - node3
+  - node4
+  - node5
+  - node6
+  - spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Node
+    uniqueID: 537968051
+    locked: 0
+  - name: Enemy
+    uniqueID: 863866249
+    locked: 0
+  - name: Turrets
+    uniqueID: 3957398405
+    locked: 0
+  - name: Projectile
+    uniqueID: 468619969
+    locked: 0
+  - name: UI
+    uniqueID: 2281584507
+    locked: 0
